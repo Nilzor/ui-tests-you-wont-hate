@@ -1,6 +1,6 @@
 # Links and resources
 ## Android
-- Frode’s test helpers: github.com/Nilzor/espresso-test-helpers
+- Frode’s test helpers: [github.com/Nilzor/espresso-test-helpers](https://github.com/Nilzor/espresso-test-helpers)
 - Fragment testing: developer.android.com/guide/fragments/testoogle docs
 
 ## iOS
